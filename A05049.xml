@@ -15709,12 +15709,18 @@ and Englishe) from the head to the fete,
 of all exterior partes of the bodye, as
 they are called of the moste lear<g ref="char:EOLhyphen"/>ned
 Anatomistes.</p>
-                     <figure>
-                        <figDesc>ventral view of male anatomy</figDesc>
-                     </figure>
-                     <figure>
-                        <figDesc>dorsal view of male anatomy</figDesc>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:9833:165"/>
+                        <figure>
+                           <figDesc>ventral view of male anatomy</figDesc>
+                        </figure>
+                     </p>
+                     <p>
+                        <pb facs="tcp:9833:166"/>
+                        <figure>
+                           <figDesc>dorsal view of male anatomy</figDesc>
+                        </figure>
+                     </p>
                   </div>
                   <div n="1" type="part">
                      <pb n="35" facs="tcp:9833:166"/>
